@@ -1,0 +1,15 @@
+pandas==2.2.1
+mlflow==2.12.1
+notebook==7.1.1
+scikit-learn==1.4.1.post1
+numpy==1.26.4
+matplotlib==3.8.3
+python-box==6.4.0
+pyyaml==6.0.1
+tqdm==4.66.2
+ensure==1.0.2
+joblib==1.4.0
+types-pyyaml==6.0.12.12
+flask==3.0.2
+flask-cors==4.0.0
+-e .

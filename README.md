@@ -15,3 +15,4 @@ This repository contains an end-to-end machine learning project setup, including
 ```bash
 conda create --name end2endmlproject python=3.9 -y
 conda activate end2endmlproject
+``` 
